@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog].
 
+## Unreleased
+### Formatters
+* `prettier-json-stringify` ([#183]).
+
+[#183]: https://github.com/radian-software/apheleia/pull/183
+
 ## 4.3 (released 2024-11-12)
 ### Features
 * New user option `apheleia-skip-functions`, like
